@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "532ee40d669c3b49",
+    "type": "split",
+    "children": [
+      {
+        "id": "fca45ca5743829de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f476298d1b5c81a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "794078dbde5fcf71",
+    "type": "split",
+    "children": [
+      {
+        "id": "b64344424d4185a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb4300d86597b2ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "69e8819c9f74c5fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "16c43f7cf0a105fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b4a1fb24fc00adb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "680565ad7aec38f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e396fc92ff920a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "240acba9e62c2c69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ce721efb4df69b0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "64901a47b662bba3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zettelkasten/permanent_notes/react-native/deployment/ota-updates.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ota-updates"
+            }
+          },
+          {
+            "id": "c6c7b959cdb6facb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "bb4300d86597b2ec",
+  "lastOpenFiles": [
+    "zettelkasten/fleeting_notes/volumes.md",
+    "zettelkasten/fleeting_notes/virtual-memory.md",
+    "zettelkasten/fleeting_notes/vectors.md",
+    "zettelkasten/fleeting_notes/users-groups.md",
+    "zettelkasten/fleeting_notes/union-find.md",
+    "zettelkasten/fleeting_notes/types.md",
+    "zettelkasten/fleeting_notes/trigonometry.md",
+    "zettelkasten/fleeting_notes/trie.md",
+    "zettelkasten/fleeting_notes/topology.md",
+    "zettelkasten/fleeting_notes/threads.md",
+    "zettelkasten/fleeting_notes/telnet.md",
+    "zettelkasten/fleeting_notes/systems.md",
+    "zettelkasten/fleeting_notes/systemd.md",
+    "zettelkasten/fleeting_notes/syscalls.md",
+    "zettelkasten/fleeting_notes/swapping.md",
+    "zettelkasten/fleeting_notes/structure.md",
+    "zettelkasten/fleeting_notes/solids.md",
+    "zettelkasten/fleeting_notes/smtp.md",
+    "zettelkasten/fleeting_notes/signals.md",
+    "zettelkasten/fleeting_notes/sieve.md",
+    "zettelkasten/fleeting_notes/sets.md",
+    "zettelkasten/fleeting_notes/separation.md",
+    "zettelkasten/fleeting_notes/semaphores.md",
+    "zettelkasten/fleeting_notes/segmentation.md",
+    "zettelkasten/fleeting_notes/scheduling-policies.md",
+    "zettelkasten/fleeting_notes/scheduling.md",
+    "zettelkasten/fleeting_notes/zettelkasten/fleeting_notes",
+    "zettelkasten/fleeting_notes/zettelkasten",
+    "zettelkasten/fleeting_notes/setup.sh",
+    "zettelkasten/attachs/maxresdefault.jpg",
+    "zettelkasten/attachs/maxresdefault.jpg.crdownload",
+    "zettelkasten/attachs/Zettelkasten_paper_schematic.webp",
+    "zettelkasten/attachs/Zettelkasten_paper_schematic.webp.crdownload",
+    "zettelkasten/attachs/notas-zettelkasten-notion.jpg",
+    "zettelkasten/attachs/notas-zettelkasten-notion.jpg.crdownload",
+    "zettelkasten/attachs",
+    "zettelkasten/fleeting_notes/so/security",
+    "zettelkasten/fleeting_notes/so/processes",
+    "zettelkasten/fleeting_notes/so/memory"
+  ]
+}
