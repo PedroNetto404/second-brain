@@ -1,5 +1,12 @@
 [
   "templater-obsidian",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "calendar",
+  "obsidian-kanban",
+  "obsidian-style-settings",
+  "obsidian-icon-folder",
+  "obsidian-git",
+  "omnisearch"
 ]

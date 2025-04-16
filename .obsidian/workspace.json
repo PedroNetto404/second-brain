@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fca45ca5743829de",
+        "id": "f39c43524504e706",
         "type": "tabs",
         "children": [
           {
-            "id": "5f476298d1b5c81a",
+            "id": "8682f3e881cb9514",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "luizalabs/business entities.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "business entities"
             }
           }
         ]
@@ -158,6 +162,16 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "5fb58a50f8057c2a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ]
       }
@@ -181,49 +195,60 @@
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "bb4300d86597b2ec",
   "lastOpenFiles": [
-    "zettelkasten/fleeting_notes/volumes.md",
-    "zettelkasten/fleeting_notes/virtual-memory.md",
-    "zettelkasten/fleeting_notes/vectors.md",
-    "zettelkasten/fleeting_notes/users-groups.md",
-    "zettelkasten/fleeting_notes/union-find.md",
-    "zettelkasten/fleeting_notes/types.md",
-    "zettelkasten/fleeting_notes/trigonometry.md",
-    "zettelkasten/fleeting_notes/trie.md",
-    "zettelkasten/fleeting_notes/topology.md",
-    "zettelkasten/fleeting_notes/threads.md",
-    "zettelkasten/fleeting_notes/telnet.md",
-    "zettelkasten/fleeting_notes/systems.md",
-    "zettelkasten/fleeting_notes/systemd.md",
-    "zettelkasten/fleeting_notes/syscalls.md",
-    "zettelkasten/fleeting_notes/swapping.md",
-    "zettelkasten/fleeting_notes/structure.md",
-    "zettelkasten/fleeting_notes/solids.md",
-    "zettelkasten/fleeting_notes/smtp.md",
-    "zettelkasten/fleeting_notes/signals.md",
-    "zettelkasten/fleeting_notes/sieve.md",
-    "zettelkasten/fleeting_notes/sets.md",
-    "zettelkasten/fleeting_notes/separation.md",
-    "zettelkasten/fleeting_notes/semaphores.md",
-    "zettelkasten/fleeting_notes/segmentation.md",
-    "zettelkasten/fleeting_notes/scheduling-policies.md",
-    "zettelkasten/fleeting_notes/scheduling.md",
-    "zettelkasten/fleeting_notes/zettelkasten/fleeting_notes",
-    "zettelkasten/fleeting_notes/zettelkasten",
-    "zettelkasten/fleeting_notes/setup.sh",
-    "zettelkasten/attachs/maxresdefault.jpg",
-    "zettelkasten/attachs/maxresdefault.jpg.crdownload",
-    "zettelkasten/attachs/Zettelkasten_paper_schematic.webp",
-    "zettelkasten/attachs/Zettelkasten_paper_schematic.webp.crdownload",
-    "zettelkasten/attachs/notas-zettelkasten-notion.jpg",
-    "zettelkasten/attachs/notas-zettelkasten-notion.jpg.crdownload",
-    "zettelkasten/attachs",
-    "zettelkasten/fleeting_notes/so/security",
-    "zettelkasten/fleeting_notes/so/processes",
-    "zettelkasten/fleeting_notes/so/memory"
+    "luizalabs/business entities.md",
+    "luizalabs",
+    "personal",
+    "Untitled",
+    "attachs/docs/includes/net-framework-retired-versions.md",
+    "attachs/docs/includes/net-current-v452plus-md.md",
+    "attachs/docs/includes/dotnet-new-7-0-syntax.md",
+    "attachs/docs/includes/cli-configuration.md",
+    "attachs/docs/includes/cli-configuration-publish-pack.md",
+    "fleeting_notes/cpp-snippets.md",
+    "attachs/docs/api/index.md",
+    "fleeting_notes/dns.md",
+    "fleeting_notes/pop3.md",
+    "fleeting_notes/quantifiers.md",
+    "fleeting_notes/modular-arithmetic.md",
+    "fleeting_notes/http.md",
+    "fleeting_notes/containers.md",
+    "fleeting_notes/descriptive.md",
+    "setup.sh",
+    "fleeting_notes/by-difficulty.md",
+    "fleeting_notes/bfs-dfs.md",
+    "fleeting_notes/analysis.md",
+    "views/overview-literature.md",
+    "views/overview-moc.md",
+    "fleeting_notes.md",
+    "views/kanban-zettelkasten.md",
+    "views/overview-fleeting.md",
+    "README.md",
+    "views",
+    "templates/3.permanent_note.md",
+    "templates/2.literature-note.md",
+    "templates",
+    "attachs/docs/samples/snippets/core/tutorials/netcore-hosting/csharp/HostWithHostFxr/src/NativeHost/inc/hostfxr.h",
+    "attachs/docs/samples/snippets/core/tutorials/netcore-hosting/csharp/HostWithHostFxr/src/NativeHost/inc/coreclr_delegates.h",
+    "attachs/docs/samples/snippets/core/tutorials/netcore-hosting/csharp/HostWithHostFxr/src/NativeHost/inc.vs/nethost.h",
+    "attachs/docs/samples/snippets/core/tutorials/netcore-hosting/csharp/HostWithHostFxr/src/NativeHost/Properties/launchSettings.json",
+    "attachs/docs/samples/snippets/csharp/VS_Snippets_Wpf/InvokePatternApp/CSharp/Target/data/fish.png",
+    "attachs/docs/samples/snippets/csharp/VS_Snippets_Wpf/InvokePatternApp/CSharp/Target/data/dog.png",
+    "attachs/docs/samples/snippets/csharp/VS_Snippets_Wpf/InvokePatternApp/CSharp/Target/data/cat.png",
+    "attachs/docs/samples/snippets/visualbasic/VS_Snippets_VBCSharp/VbVbalrMyResources/VB/Resources/tpevening.jpg",
+    "attachs/docs/samples/snippets/visualbasic/VS_Snippets_Wpf/FindText/VisualBasic/Content/SolarSystem.bmp",
+    "attachs/docs/samples/snippets/visualbasic/VS_Snippets_CLR_System/system.reflectionwinstoreapp/vb/assets/storelogo.png",
+    "attachs/docs/samples/snippets/visualbasic/VS_Snippets_CLR_System/system.reflectionwinstoreapp/vb/assets/splashscreen.png",
+    "attachs/docs/samples/snippets/visualbasic/VS_Snippets_CLR_System/system.reflectionwinstoreapp/vb/assets/smalllogo.png",
+    "attachs/docs/samples/snippets/visualbasic/VS_Snippets_CLR_System/system.reflectionwinstoreapp/vb/assets/logo.png",
+    "attachs/docs/samples/snippets/csharp/VS_Snippets_Wpf/FindText/CSharp/Content/SolarSystem.bmp"
   ]
 }
